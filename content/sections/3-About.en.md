@@ -1,34 +1,34 @@
 ---
-anchor: "About"
-header: "About"
-subheader: "Lorem ipsum dolor sit amet consectetur."
+anchor: "Niveles"
+header: "Niveles"
+subheader: "Niveles educativos."
 timeline: [
   {
     imageFileName: "about/1.jpg",
     header: "2009-2011",
-    subheader: "Our Humble Beginnings",
+    subheader: "Primaria",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   },
   {
     imageFileName: "about/2.jpg",
     header: "March 2011",
-    subheader: "An Agency is Born",
+    subheader: "Secundaria",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   },
   {
     imageFileName: "about/3.jpg",
     header: "December 2012",
-    subheader: "Transition to Full Service",
+    subheader: "Media Superior",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   },
   {
     imageFileName: "about/4.jpg",
     header: "July 2014",
-    subheader: "Phase Two Expansion",
+    subheader: "Licenciatura",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   },
   {
-    imageContent: "Be Part\r\nOf Our\r\nStory!"
+    imageContent: "Se parte\r\ndel\r\nCambio!"
   }
 ]
 ---
