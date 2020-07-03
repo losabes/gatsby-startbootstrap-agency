@@ -84,6 +84,6 @@
     "serve": "gatsby serve",
     "eslint": "eslint ./src",
     "test": "cross-env NODE_ENV=test yarn run eslint",
-    "testbuild": "npm run build"
+    "testbuild": "yarn test && yarn build"
   }
 }
