@@ -19,8 +19,8 @@ teamMember: [
     header: "Alexis Licona",
     subheader: "CEO",
     social: {
-      twitter: "LoSabes9",
-      facebook: "Lo-Sabes-106458471131259/",
+      twitter: "ALEXISLICONA19",
+      facebook: "cesaralexis.liconajaimes.9/",
       linkedin: "#"
     }
   },
