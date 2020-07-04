@@ -40,7 +40,7 @@ const PortfolioDetailDialog = ({
         <div className="mx-auto">
           <Button variant="primary" onClick={onHide}>
             <Icon iconName="CloseIcon" />
-            &nbsp; Close Project
+            &nbsp; Cerrar
           </Button>
         </div>
       </Modal.Footer>
